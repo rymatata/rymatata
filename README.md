@@ -7,12 +7,20 @@ Navigating the universe of programming, one line at a time.
 I am a passionate **Full Stack Web Developer** with years of experience in the world of **Audiovisuals** as well. I've grown up in the world of technology, having been in involved in professional AV work since high school and studying both Computer Science and Data Science at university.
 
 ## 🏫 Education
-<img src="images/loyola_seal.png" width=100><br>
-Loyola University Maryland<br>
-Sep 2022 - May 2025<br>
-**Bachelors Degree in Computer Science, Minor in Data Science**<br>
-GPA: 3.6
-
+<table>
+  <tr>
+    <td>
+      <img src="images/loyola_seal.png" width="100">
+    </td>
+    <td>
+      <p>Loyola University Maryland<br>
+      Sep 2022 - May 2025<br>
+      <strong>Bachelors Degree in Computer Science,<br>
+      Minor in Data Science</strong><br>
+      GPA: 3.6</p>
+    </td>
+  </tr>
+</table>
 
 ## ⚒️ Tech Stack
 ### Programming Languages
