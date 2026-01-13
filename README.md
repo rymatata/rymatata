@@ -4,7 +4,7 @@
 Navigating the universe of programming, one line at a time.
 
 ## 🙋 About Me
-I am a passionate **Full Stack Web Developer** with years of experience in the world of **Audiovisuals** as well. I've grown up in the world of technology, having been in involved in professional AV work since high school and studying both Computer Science and Data Science at university.
+I am a passionate **Full Stack Web Developer** with years of experience in the world of **Audiovisuals** as well. I've grown up in the world of technology, having been in involved with professional AV work since high school and studying both Computer Science and Data Science at university.
 
 ## 🏫 Education
 <table>
