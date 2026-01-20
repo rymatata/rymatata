@@ -17,7 +17,7 @@ I am a passionate **Full Stack Web Developer** with years of experience in the w
       Sep 2022 - May 2025<br>
       <strong>Bachelors Degree in Computer Science,<br>
       Minor in Data Science</strong><br>
-      GPA: 3.6</p>
+      </p>
     </td>
   </tr>
 </table>
