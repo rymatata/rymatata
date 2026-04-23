@@ -10,7 +10,7 @@ I am a passionate **Full Stack Web Developer** with years of experience in the w
 <table>
   <tr>
     <td>
-      <img src="images/loyola_seal.png" width="100">
+      <img src="images/loyola_seal.png" width="180">
     </td>
     <td>
       <p>Loyola University Maryland<br>
